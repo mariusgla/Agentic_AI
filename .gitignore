@@ -10,3 +10,8 @@ __pycache__/
 input.txt
 env/
 venv/
+
+*.pgn
+*.pgn.zst
+out-chess/
+data/chess/*.bin
