@@ -23,3 +23,7 @@ beta2 = 0.99
 eval_interval = 500
 eval_iters = 50
 log_interval = 10
+
+wandb_log = True
+wandb_project = 'chess-pro-vs-normal'
+wandb_run_name = 'chess'            # pro Lauf ueberschreiben, z. B. --wandb_run_name=pro-seed1
