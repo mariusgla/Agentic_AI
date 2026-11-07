@@ -15,3 +15,4 @@ venv/
 *.pgn.zst
 out-chess/
 data/chess/*.bin
+wandb/
